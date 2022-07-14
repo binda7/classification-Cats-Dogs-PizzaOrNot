@@ -6,7 +6,7 @@ It is a pre-trained classification network design. The input is pictures of cats
 
 # DataBases
 
-In this project I used to databases.
+In this project I used two databases.
 
 Pizza Or Not Pizza
 https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza
